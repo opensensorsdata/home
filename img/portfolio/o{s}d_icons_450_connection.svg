@@ -16,8 +16,11 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="o{s}d_icons_connection.svg"
-   style="enable-background:new">
+   sodipodi:docname="o{s}d_icons_450_connection.svg"
+   style="enable-background:new"
+   inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_connection.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -101,16 +104,6 @@
        y1="393.59521"
        x2="3401.6096"
        y2="393.59521" />
-    <filter
-       inkscape:collect="always"
-       id="filter3211"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         inkscape:collect="always"
-         mode="normal"
-         in2="BackgroundImage"
-         id="feBlend3213" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4444"
@@ -2635,16 +2628,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="626.84584"
-     inkscape:cy="98.841784"
+     inkscape:zoom="0.0625"
+     inkscape:cx="2683.6585"
+     inkscape:cy="-90.776467"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="852"
-     inkscape:window-x="342"
-     inkscape:window-y="0"
+     inkscape:window-x="19"
+     inkscape:window-y="12"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -2654,105 +2647,51 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="didascalie"
-     style="display:inline"
-     transform="translate(0,-902.36218)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="margine"
-     style="display:inline"
-     transform="translate(0,-902.36218)" />
-  <g
-     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="sfondo"
      style="display:inline"
-     transform="translate(0,-902.36218)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="open"
-     style="display:inline"
-     transform="translate(0,-902.36218)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="sensors"
-     style="display:inline"
-     transform="translate(0,-902.36218)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="data"
-     style="display:inline"
-     transform="translate(0,-902.36218)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="crocette"
-     style="display:inline"
-     transform="translate(0,-902.36218)" />
+     transform="translate(0,-902.36218)">
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect4371"
+       width="600"
+       height="450"
+       x="-73"
+       y="602.36218"
+       ry="60"
+       rx="60"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_connection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="graffe"
      style="display:inline"
      transform="translate(0,-902.36218)">
-    <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       d="m -2075.0576,1712.5492 c -5.0704,-2e-4 -8.9737,-1.5494 -11.71,-4.6479 -2.6962,-3.0988 -4.0442,-7.4646 -4.0442,-13.0984 l 0,-17.8064 c 0,-4.708 -1.0664,-8.2293 -3.1992,-10.5632 -2.0925,-2.3742 -5.352,-3.6417 -9.7784,-3.8027 l 0,-2.7163 c 8.6517,-0.1611 12.9776,-4.9092 12.9776,-14.2451 l 0,-17.7462 c 0,-5.6739 1.3078,-10.0399 3.9234,-13.0983 2.6157,-3.0583 6.5592,-4.5874 11.8308,-4.5874 l 8.1487,0 0,2.8371 -3.7424,0 c -3.6619,0 -6.2775,1.1066 -7.8469,3.3198 -1.5292,2.1731 -2.2937,5.3922 -2.2937,9.6577 l 0,19.9191 c 0,3.8229 -1.0463,7.1227 -3.1388,9.8992 -2.0925,2.7364 -4.9093,4.4867 -8.4505,5.2514 l 0,0.181 c 3.5814,0.845 6.3982,2.6358 8.4505,5.3721 2.0925,2.696 3.1388,5.9957 3.1388,9.8994 l 0,20.1603 c 0,4.2655 0.7645,7.4848 2.2937,9.6579 1.5694,2.213 4.185,3.3197 7.8469,3.3197 l 3.7424,0 0,2.837 -8.1487,0"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-       id="path4252"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       d="m -2067.1141,1712.5492 0,-2.8372 3.7424,0 c 3.6618,0 6.2573,-1.1067 7.7865,-3.3197 1.5694,-2.1731 2.3541,-5.3924 2.3541,-9.6579 l 0,-20.1603 c 0,-3.9035 1.0261,-7.2031 3.0784,-9.8994 2.0522,-2.7363 4.8892,-4.5271 8.5109,-5.3721 l 0,-0.181 c -3.5412,-0.7644 -6.3581,-2.5351 -8.4506,-5.3116 -2.0925,-2.7766 -3.1387,-6.0563 -3.1387,-9.839 l 0,-19.9191 c 0,-4.2655 -0.7847,-7.4846 -2.3541,-9.6577 -1.5292,-2.2132 -4.1247,-3.3198 -7.7865,-3.3198 l -3.7424,0 0,-2.8371 8.209,0 c 5.2313,3e-4 9.1548,1.5294 11.7704,4.5876 2.6156,3.0582 3.9235,7.4244 3.9235,13.0981 l 0,17.7462 c 0,9.3359 4.3258,14.0842 12.9776,14.2451 l 0,2.7163 c -4.346,0.1612 -7.6055,1.4084 -9.7785,3.7424 -2.1328,2.334 -3.1991,5.8751 -3.1991,10.6235 l 0,17.8064 c 0,5.5935 -1.3682,9.9395 -4.1046,13.0381 -2.6961,3.1387 -6.5592,4.7082 -11.5893,4.7082 l -8.209,0"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-       id="path4254"
-       inkscape:connector-curvature="0" />
-    <rect
-       y="12.649793"
-       x="265.47711"
-       width="850"
-       style="fill:none;stroke:none"
-       id="rect2300"
-       height="850" />
     <g
-       id="g4366"
-       transform="matrix(3,0,0,3,-9e-6,-2104.7244)">
-      <path
-         transform="matrix(1.3157895,0,0,1.2987013,38.1579,-186.59886)"
-         d="M 85,896.25 C 85,928.14444 59.480231,954 28,954 c -31.4802307,0 -57,-25.85556 -57,-57.75 0,-31.89444 25.5197693,-57.75 57,-57.75 31.480231,0 57,25.85556 57,57.75 z"
-         sodipodi:ry="57.75"
-         sodipodi:rx="57"
-         sodipodi:cy="896.25"
-         sodipodi:cx="28"
-         id="path5201"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline;enable-background:new"
-         sodipodi:type="arc" />
+       id="g4362"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_connection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
          inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d_scritta.png"
-         d="m 25.70391,1002.258 2.7728,0 0,3.6579 c 0,3.5791 1.0817,6.116 3.2449,7.6106 2.1239,1.5339 5.2704,2.3008 9.4395,2.3009 l 19.705,0 c 3.8152,-10e-5 7.0403,1.0029 9.6756,3.0088 2.6744,2.006 4.4247,4.7788 5.2507,8.3187 l 0.1769,0 c 0.7473,-3.4613 2.4779,-6.2145 5.1918,-8.2597 2.7138,-2.0453 5.9194,-3.0679 9.6165,-3.0678 l 19.4691,0 c 4.169,-10e-5 7.3156,-0.767 9.4395,-2.3009 2.1631,-1.4946 3.2447,-4.0315 3.2449,-7.6106 l 0,-3.6579 2.7728,0 0,8.0236 c -10e-5,5.1131 -1.4947,8.948 -4.4838,11.5045 -2.9893,2.5566 -7.2567,3.8347 -12.8023,3.8348 l -17.3452,0 c -9.1249,-10e-5 -13.766,4.2281 -13.9233,12.6844 l -2.6549,0 c -0.1573,-4.2478 -1.3766,-7.4337 -3.6578,-9.5576 -2.2812,-2.0845 -5.7424,-3.1269 -10.3835,-3.1268 l -17.4041,0 c -5.467,-10e-5 -9.7148,-1.3373 -12.7434,-4.0118 -3.0677,-2.6352 -4.6017,-6.411 -4.6017,-11.3275 l 0,-8.0236"
+         d="m 77.111721,902.0496 8.3184,0 0,10.9737 c 0,10.7373 3.2451,18.348 9.7347,22.8318 6.371699,4.6017 15.811199,6.9024 28.318499,6.9027 l 59.115,0 c 11.4456,-3e-4 21.1209,3.0087 29.0268,9.0264 8.0232,6.018 13.2741,14.3364 15.7521,24.9561 l 0.5307,0 c 2.2419,-10.3839 7.4337,-18.6435 15.5754,-24.7791 8.1414,-6.1359 17.7582,-9.2037 28.8495,-9.2034 l 58.4073,0 c 12.507,-3e-4 21.9468,-2.301 28.3185,-6.9027 6.4893,-4.4838 9.7341,-12.0945 9.7347,-22.8318 l 0,-10.9737 8.3184,0 0,24.0708 c -3e-4,15.3393 -4.4841,26.844 -13.4514,34.5135 -8.9679,7.6698 -21.7701,11.5041 -38.4069,11.5044 l -52.0356,0 c -27.3747,-3e-4 -41.298,12.6843 -41.7699,38.0532 l -7.9647,0 c -0.4719,-12.7434 -4.1298,-22.3011 -10.9734,-28.6728 -6.8436,-6.2535 -17.2272,-9.3807 -31.1505,-9.3804 l -52.2123,0 c -16.401,-3e-4 -29.1444,-4.0119 -38.230199,-12.0354 -9.2031,-7.9056 -13.8051,-19.233 -13.8051,-33.9825 l 0,-24.0708"
          style="font-size:112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#002fa7;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
          id="path3949"
          inkscape:connector-curvature="0" />
       <g
          style="filter:url(#filter5499)"
-         transform="matrix(0.92969204,0,0,0.92969204,-501.98486,242.62978)"
+         transform="matrix(2.7890761,0,0,2.7890761,-1505.9546,-1376.8351)"
          id="g5481">
         <path
            inkscape:connector-curvature="0"
@@ -2781,73 +2720,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="connessione"
-     transform="translate(0,-1100)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="graffe_datalog"
-     transform="translate(0,-1100)" />
-  <g
-     inkscape:label="scritta"
-     inkscape:groupmode="layer"
-     id="layer1"
+     transform="translate(0,-1100)"
      style="display:inline"
-     transform="translate(0,-902.36218)" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="rettangoli"
-     style="display:inline;filter:url(#filter3211)"
-     transform="translate(0,-902.36218)">
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       ry="0"
-       y="1563.866"
-       x="-1756.276"
-       height="139.81157"
-       width="31.538252"
-       id="rect4214"
-       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline"
-       id="rect4216"
-       width="36.880672"
-       height="114.81194"
-       x="-1793.1104"
-       y="1576.3655"
-       ry="0" />
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       ry="0"
-       y="1570.1156"
-       x="-1829.7861"
-       height="127.31174"
-       width="36.880672"
-       id="rect4218"
-       style="fill:#ececec;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline"
-       id="rect4220"
-       width="32.71574"
-       height="139.81157"
-       x="-1862.2356"
-       y="1563.866"
-       ry="0" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="logo"
-     style="display:inline"
-     transform="translate(0,-902.36218)" />
+     sodipodi:insensitive="true" />
 </svg>

@@ -16,8 +16,11 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="o{s}d_icons_sensor.svg"
-   style="enable-background:new">
+   sodipodi:docname="o{s}d_icons_450_sensor.svg"
+   style="enable-background:new"
+   inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_sensor.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <linearGradient
@@ -2576,11 +2579,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="2019.3378"
-     inkscape:cy="299.17905"
+     inkscape:zoom="0.16"
+     inkscape:cx="2579.7262"
+     inkscape:cy="-401.13011"
      inkscape:document-units="px"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="852"
@@ -2595,7 +2598,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2647,82 +2650,60 @@
      inkscape:label="graffe"
      style="display:inline"
      transform="translate(0,-902.36218)">
-    <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       d="m -2075.0576,1712.5492 c -5.0704,-2e-4 -8.9737,-1.5494 -11.71,-4.6479 -2.6962,-3.0988 -4.0442,-7.4646 -4.0442,-13.0984 l 0,-17.8064 c 0,-4.708 -1.0664,-8.2293 -3.1992,-10.5632 -2.0925,-2.3742 -5.352,-3.6417 -9.7784,-3.8027 l 0,-2.7163 c 8.6517,-0.1611 12.9776,-4.9092 12.9776,-14.2451 l 0,-17.7462 c 0,-5.6739 1.3078,-10.0399 3.9234,-13.0983 2.6157,-3.0583 6.5592,-4.5874 11.8308,-4.5874 l 8.1487,0 0,2.8371 -3.7424,0 c -3.6619,0 -6.2775,1.1066 -7.8469,3.3198 -1.5292,2.1731 -2.2937,5.3922 -2.2937,9.6577 l 0,19.9191 c 0,3.8229 -1.0463,7.1227 -3.1388,9.8992 -2.0925,2.7364 -4.9093,4.4867 -8.4505,5.2514 l 0,0.181 c 3.5814,0.845 6.3982,2.6358 8.4505,5.3721 2.0925,2.696 3.1388,5.9957 3.1388,9.8994 l 0,20.1603 c 0,4.2655 0.7645,7.4848 2.2937,9.6579 1.5694,2.213 4.185,3.3197 7.8469,3.3197 l 3.7424,0 0,2.837 -8.1487,0"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-       id="path4252"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       d="m -2067.1141,1712.5492 0,-2.8372 3.7424,0 c 3.6618,0 6.2573,-1.1067 7.7865,-3.3197 1.5694,-2.1731 2.3541,-5.3924 2.3541,-9.6579 l 0,-20.1603 c 0,-3.9035 1.0261,-7.2031 3.0784,-9.8994 2.0522,-2.7363 4.8892,-4.5271 8.5109,-5.3721 l 0,-0.181 c -3.5412,-0.7644 -6.3581,-2.5351 -8.4506,-5.3116 -2.0925,-2.7766 -3.1387,-6.0563 -3.1387,-9.839 l 0,-19.9191 c 0,-4.2655 -0.7847,-7.4846 -2.3541,-9.6577 -1.5292,-2.2132 -4.1247,-3.3198 -7.7865,-3.3198 l -3.7424,0 0,-2.8371 8.209,0 c 5.2313,3e-4 9.1548,1.5294 11.7704,4.5876 2.6156,3.0582 3.9235,7.4244 3.9235,13.0981 l 0,17.7462 c 0,9.3359 4.3258,14.0842 12.9776,14.2451 l 0,2.7163 c -4.346,0.1612 -7.6055,1.4084 -9.7785,3.7424 -2.1328,2.334 -3.1991,5.8751 -3.1991,10.6235 l 0,17.8064 c 0,5.5935 -1.3682,9.9395 -4.1046,13.0381 -2.6961,3.1387 -6.5592,4.7082 -11.5893,4.7082 l -8.209,0"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-       id="path4254"
-       inkscape:connector-curvature="0" />
     <rect
-       y="12.649793"
-       x="265.47711"
-       width="850"
-       style="fill:none;stroke:none"
-       id="rect2300"
-       height="850" />
+       transform="translate(0,-197.63782)"
+       style="enable-background:new;fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect4386"
+       width="600"
+       height="450"
+       x="-73"
+       y="800"
+       rx="18.292683"
+       ry="27.439024"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_sensors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="connessione"
      transform="translate(0,-1100)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3933"
+       style="font-size:112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ea5480;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+       d="m 76.641056,962.49434 c 0,-14.8674 4.542624,-26.313 13.628184,-34.33638 9.08562,-7.9059 21.88788,-11.85849 38.40714,-11.85849 l 52.21239,0 c 13.80525,0 24.12972,-3.12669 30.97347,-9.38046 6.96156,-6.1359 10.67838,-15.69336 11.15043,-28.67265 l 7.96461,0 c 0.47187,25.3686 14.39517,38.05311 41.76993,38.05311 l 52.03542,0 c 16.63701,0 29.43933,3.83478 38.40711,11.50446 8.9673,7.66962 13.4511,19.233 13.45131,34.69041 l 0,23.8938 -8.31855,0 0,-10.97373 c -2.4e-4,-10.73742 -3.2451,-18.40707 -9.73449,-23.00859 -6.37194,-4.48407 -15.81144,-6.72594 -28.31859,-6.72594 l -58.40715,0 c -11.20956,0 -20.88507,-3.0678 -29.02656,-9.20337 -8.02371,-6.1359 -13.15641,-14.39523 -15.39822,-24.77892 l -0.53097,0 c -2.478,10.50153 -7.72872,18.76113 -15.75222,24.77892 -7.90569,6.13557 -17.5812,9.20337 -29.02656,9.20337 l -59.11503,0 c -12.50745,0 -21.94677,2.24187 -28.31862,6.72594 -6.48963,4.60152 -9.73446,12.27117 -9.73446,23.00859 l 0,10.97373 -8.318574,0 0,-23.8938"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_sensors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
-       id="g3448"
-       transform="matrix(3,0,0,3,-220.49998,-1910.5001)">
+       style="display:inline"
+       id="g5306"
+       transform="matrix(3,0,0,3,-216.87866,-1393.4836)"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_sensors.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
-         transform="matrix(1.3157895,0,0,1.2987013,111.65789,-185.461)"
-         d="M 85,896.25 C 85,928.14444 59.480231,954 28,954 c -31.4802307,0 -57,-25.85556 -57,-57.75 0,-31.89444 25.5197693,-57.75 57,-57.75 31.480231,0 57,25.85556 57,57.75 z"
-         sodipodi:ry="57.75"
-         sodipodi:rx="57"
-         sodipodi:cy="896.25"
-         sodipodi:cx="28"
-         id="path5169"
-         style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline;enable-background:new"
-         sodipodi:type="arc" />
+         d="m 30.910667,18.604561 c 0,1.841043 -1.49246,3.333503 -3.333503,3.333503 -1.841043,0 -3.333504,-1.49246 -3.333504,-3.333503 0,-1.841043 1.492461,-3.333504 3.333504,-3.333504 1.841043,0 3.333503,1.492461 3.333503,3.333504 z"
+         id="path11488"
+         sodipodi:cx="27.577164"
+         sodipodi:cy="18.604561"
+         sodipodi:rx="3.3335035"
+         sodipodi:ry="3.3335035"
+         sodipodi:type="arc"
+         style="fill:none;stroke:url(#radialGradient3455);stroke-width:1.18127644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+         transform="matrix(-7.0344016,0,0,-7.0344016,342.04151,935.82511)" />
       <path
-         inkscape:export-ydpi="300"
-         inkscape:export-xdpi="300"
-         inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d_scritta.png"
-         d="m 99.047012,760.02698 c 0,-4.9558 1.514208,-8.771 4.542728,-11.44546 3.02854,-2.6353 7.29596,-3.95283 12.80238,-3.95283 l 17.40413,0 c 4.60175,0 8.04324,-1.04223 10.32449,-3.12682 2.32052,-2.0453 3.55946,-5.23112 3.71681,-9.55755 l 2.65487,0 c 0.15729,8.4562 4.79839,12.68437 13.92331,12.68437 l 17.34514,0 c 5.54567,0 9.81311,1.27826 12.80237,3.83482 2.9891,2.55654 4.4837,6.411 4.48377,11.56347 l 0,7.9646 -2.77285,0 0,-3.65791 c -8e-5,-3.57914 -1.0817,-6.13569 -3.24483,-7.66953 -2.12398,-1.49469 -5.27048,-2.24198 -9.43953,-2.24198 l -19.46905,0 c -3.73652,0 -6.96169,-1.0226 -9.67552,-3.06779 -2.67457,-2.0453 -4.38547,-4.79841 -5.13274,-8.25964 l -0.17699,0 c -0.826,3.50051 -2.57624,6.25371 -5.25074,8.25964 -2.63523,2.04519 -5.8604,3.06779 -9.67552,3.06779 l -19.70501,0 c -4.16915,0 -7.31559,0.74729 -9.43954,2.24198 -2.16321,1.53384 -3.24482,4.09039 -3.24482,7.66953 l 0,3.65791 -2.772858,0 0,-7.9646"
-         style="font-size:112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ea5480;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-         id="path3933"
-         inkscape:connector-curvature="0"
-         transform="translate(0,197.63782)" />
-      <g
-         transform="translate(1.2071068,172.33883)"
-         id="g5306"
-         style="display:inline">
-        <path
-           transform="matrix(-7.0344016,0,0,-7.0344016,342.04151,935.82511)"
-           style="fill:none;stroke:url(#radialGradient3455);stroke-width:1.18127644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
-           sodipodi:type="arc"
-           sodipodi:ry="3.3335035"
-           sodipodi:rx="3.3335035"
-           sodipodi:cy="18.604561"
-           sodipodi:cx="27.577164"
-           id="path11488"
-           d="m 30.910667,18.604561 c 0,1.841043 -1.49246,3.333503 -3.333503,3.333503 -1.841043,0 -3.333504,-1.49246 -3.333504,-3.333503 0,-1.841043 1.492461,-3.333504 3.333504,-3.333504 1.841043,0 3.333503,1.492461 3.333503,3.333504 z" />
-        <path
-           transform="matrix(-13.752863,0,0,-13.752863,527.31835,1060.8191)"
-           style="fill:none;stroke:url(#radialGradient3457);stroke-width:0.60420674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
-           sodipodi:type="arc"
-           sodipodi:ry="3.3335035"
-           sodipodi:rx="3.3335035"
-           sodipodi:cy="18.604561"
-           sodipodi:cx="27.577164"
-           id="path11490"
-           d="m 30.910667,18.604561 c 0,1.841043 -1.49246,3.333503 -3.333503,3.333503 -1.841043,0 -3.333504,-1.49246 -3.333504,-3.333503 0,-1.841043 1.492461,-3.333504 3.333504,-3.333504 1.841043,0 3.333503,1.492461 3.333503,3.333504 z" />
-      </g>
+         d="m 30.910667,18.604561 c 0,1.841043 -1.49246,3.333503 -3.333503,3.333503 -1.841043,0 -3.333504,-1.49246 -3.333504,-3.333503 0,-1.841043 1.492461,-3.333504 3.333504,-3.333504 1.841043,0 3.333503,1.492461 3.333503,3.333504 z"
+         id="path11490"
+         sodipodi:cx="27.577164"
+         sodipodi:cy="18.604561"
+         sodipodi:rx="3.3335035"
+         sodipodi:ry="3.3335035"
+         sodipodi:type="arc"
+         style="fill:none;stroke:url(#radialGradient3457);stroke-width:0.60420674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+         transform="matrix(-13.752863,0,0,-13.752863,527.31835,1060.8191)" />
     </g>
   </g>
   <g
@@ -2741,52 +2722,7 @@
      id="layer9"
      inkscape:label="rettangoli"
      style="display:inline;filter:url(#filter3211)"
-     transform="translate(0,-902.36218)">
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       ry="0"
-       y="1563.866"
-       x="-1756.276"
-       height="139.81157"
-       width="31.538252"
-       id="rect4214"
-       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;display:inline"
-       id="rect4216"
-       width="36.880672"
-       height="114.81194"
-       x="-1793.1104"
-       y="1576.3655"
-       ry="0" />
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       ry="0"
-       y="1570.1156"
-       x="-1829.7861"
-       height="127.31174"
-       width="36.880672"
-       id="rect4218"
-       style="fill:#ececec;fill-opacity:1;stroke:none;display:inline" />
-    <rect
-       inkscape:export-ydpi="300"
-       inkscape:export-xdpi="300"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d.png"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline"
-       id="rect4220"
-       width="32.71574"
-       height="139.81157"
-       x="-1862.2356"
-       y="1563.866"
-       ry="0" />
-  </g>
+     transform="translate(0,-902.36218)" />
   <g
      inkscape:groupmode="layer"
      id="layer11"
