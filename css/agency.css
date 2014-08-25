@@ -61,11 +61,11 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #f9f9f9;
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #808080;
 }
 
 .btn-primary {
@@ -74,7 +74,7 @@ h6 {
     font-family: Open Sans,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #fed136;
+    background-color: #002fa7;
 }
 
 .btn-primary:hover,
@@ -84,7 +84,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
     border-color: #f6bf01;
     color: #fff;
-    background-color: #fec503;
+    background-color: #ea5480;
 }
 
 .btn-primary:active,
