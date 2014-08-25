@@ -2567,11 +2567,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.08"
-     inkscape:cx="5757.6013"
-     inkscape:cy="-2381.0121"
+     inkscape:zoom="0.64"
+     inkscape:cx="541.78744"
+     inkscape:cy="-18.908588"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="852"
@@ -2644,7 +2644,7 @@
      inkscape:label="connessione"
      transform="translate(0,-1100)">
     <rect
-       style="fill:#f9f9f9;fill-opacity:1;stroke:none;enable-background:new"
+       style="fill:none;fill-opacity:1;stroke:none;enable-background:new"
        id="rect4378"
        width="600"
        height="450"
@@ -2654,7 +2654,7 @@
        ry="60"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/o{s}d_icons_450_datalog.png" />
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_datalog.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2669,7 +2669,7 @@
        y="794.38245"
        id="text5197"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/o{s}d_icons_450_datalog.png"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_datalog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -2681,7 +2681,7 @@
        id="path4298"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ea5480;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
        d="m 375.80711,1049.9517 c -9e-4,14.8675 -4.54317,26.3128 -13.62864,34.3363 -9.08631,7.9056 -21.88806,11.8587 -38.40753,11.8584 l -52.21212,0 c -13.80456,3e-4 -24.12975,3.1269 -30.97353,9.3807 -6.96135,6.1356 -10.67823,15.6933 -11.15001,28.6722 l -7.96476,0 c -0.47238,-25.3686 -14.39481,-38.0526 -41.76963,-38.0529 l -52.0356,0 c -16.63707,3e-4 -29.43909,-3.8349 -38.40696,-11.5044 -8.9676,-7.6695 -13.45122,-19.2328 -13.45122,-34.6903 l 0,-23.8937 8.31867,0 0,10.9735 c 0,10.7375 3.24507,18.407 9.73464,23.0088 6.3717,4.4839 15.81108,6.7256 28.31841,6.7256 l 58.407,0 c 11.20953,0 20.88495,3.0679 29.02653,9.2037 8.02371,6.1356 13.15596,14.3952 15.39822,24.7785 l 0.53073,0 c 2.4777,-10.5015 7.72842,-18.7608 15.7521,-24.7785 7.90524,-6.1358 17.58066,-9.2037 29.02683,-9.2037 l 59.11455,0 c 12.50703,0 21.94701,-2.2417 28.31868,-6.7256 6.4893,-4.6018 9.73437,-12.2713 9.73437,-23.0088 l 0,-10.9735 8.31837,0 0,23.8937"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/o{s}d_icons_450_datalog.png"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_datalog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -2689,7 +2689,7 @@
        id="path4300"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#002fa7;fill-opacity:1;stroke:none;display:inline;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
        d="m 375.80711,1026.66 -8.31927,0 0,-10.9735 c 0,-10.7375 -3.24507,-18.34804 -9.73437,-22.83196 -6.37167,-4.60182 -15.81165,-6.90273 -28.31868,-6.90273 l -59.11455,0 c -11.44587,0 -21.12099,-3.00873 -29.02683,-9.02649 -8.02368,-6.01749 -13.2744,-14.33619 -15.7521,-24.95577 l -0.53073,0 c -2.24169,10.38354 -7.43346,18.64329 -15.57504,24.77895 -8.14158,6.13563 -17.75805,9.20331 -28.84971,9.20331 l -58.407,0 c -12.50733,0 -21.94671,2.30091 -28.31841,6.90273 -6.48957,4.48392 -9.73464,12.09446 -9.73464,22.83196 l 0,10.9735 -8.31867,0 0,-24.0708 c 5.7e-4,-15.33929 4.48422,-26.84381 13.45179,-34.51331 8.9673,-7.66947 21.76992,-11.50422 38.40639,-11.50452 l 52.0356,0 c 27.37482,3e-4 41.29782,-12.68415 41.76963,-38.05305 l 7.96476,0 c 0.47265,12.74337 4.12971,22.30092 10.97349,28.67262 6.84348,6.2538 17.22702,9.38073 31.15005,9.38043 l 52.21212,0 c 16.4016,3e-4 29.14497,4.01184 38.23044,12.03555 9.20361,7.90554 13.80573,19.23294 13.80573,33.98228 l 0,24.0708"
-       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/o{s}d_icons_450_datalog.png"
+       inkscape:export-filename="/Users/lucacorsato/Documents/o{s}d/home/img/portfolio/o{s}d_icons_450_datalog.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
