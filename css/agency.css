@@ -263,6 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
+    position: center;
     color: #fff;
     background-attachment: scroll;
     background-image: url(../img/sfondi_web/1200px-Castello_della_Valle_Fiumefreddo_Bruzio_1.jpeg);
