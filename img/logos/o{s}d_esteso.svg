@@ -11,8 +11,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="702"
-   height="185"
+   width="793"
+   height="213"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -78,19 +78,20 @@
        fx="357.1875"
        fy="843.59998"
        r="334.07394"
-       gradientTransform="matrix(1.4966746e-6,0,0,0.14966746,66.059661,686.60554)"
+       gradientTransform="matrix(1.4966746e-6,0,0,0.14966746,111.54222,673.48984)"
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter4142"
-       x="-0.06486184"
-       width="1.1297237"
-       y="-0.39939909"
-       height="1.7987982">
+       id="filter4174"
+       x="-0.071836233"
+       width="1.1436725"
+       y="-0.44234523"
+       height="1.8846905"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="16.641629"
-         id="feGaussianBlur4144" />
+         stdDeviation="18.431051"
+         id="feGaussianBlur4176" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -101,7 +102,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90509669"
-     inkscape:cx="225.75503"
+     inkscape:cx="410.27177"
      inkscape:cy="195.78787"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -128,35 +129,36 @@
      id="layer3"
      inkscape:label="sfondo"
      style="display:inline"
-     transform="translate(0,-867.3622)">
+     transform="translate(0,-839.3622)">
     <rect
        style="fill:url(#radialGradient3953);fill-opacity:1;stroke:none"
        id="rect3169"
        width="0.001"
        height="100"
-       x="66.059692"
-       y="762.86505"
+       x="111.54225"
+       y="749.74933"
        rx="1.1441341e-05"
        ry="6.1439996" />
     <rect
-       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4142)"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4174)"
        id="rect3967"
        width="615.76898"
        height="100"
        x="42.946136"
        y="909.41608"
        rx="0"
-       ry="0" />
+       ry="0"
+       transform="matrix(1.1255092,0,0,1.1255092,1.4500909,-133.53124)" />
   </g>
   <g
      inkscape:label="scritta"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,-867.3622)">
+     transform="translate(0,-839.3622)">
     <g
        id="g3015"
-       transform="matrix(4.1665799,0,0,4.1665799,42.946138,-3375.3345)">
+       transform="matrix(4.1665799,0,0,4.1665799,88.428698,-3388.4502)">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
