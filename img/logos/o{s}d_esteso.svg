@@ -21,18 +21,6 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3978">
-      <stop
-         style="stop-color:#f9f9f9;stop-opacity:1;"
-         offset="0"
-         id="stop3980" />
-      <stop
-         style="stop-color:#f9f9f9;stop-opacity:0;"
-         offset="1"
-         id="stop3982" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient3947">
       <stop
          style="stop-color:#f9f9f9;stop-opacity:1;"
@@ -92,24 +80,17 @@
        r="334.07394"
        gradientTransform="matrix(1.4966746e-6,0,0,0.14966746,66.059661,686.60554)"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3978"
-       id="radialGradient3984"
-       cx="307.88449"
-       cy="1002.3622"
-       fx="307.88449"
-       fy="1002.3622"
-       r="307.88449"
-       gradientTransform="matrix(1,0,0,0.16239857,42.946138,796.63388)"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter4090">
+       id="filter4142"
+       x="-0.06486184"
+       width="1.1297237"
+       y="-0.39939909"
+       height="1.7987982">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.5788449"
-         id="feGaussianBlur4092" />
+         stdDeviation="16.641629"
+         id="feGaussianBlur4144" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -158,7 +139,7 @@
        rx="1.1441341e-05"
        ry="6.1439996" />
     <rect
-       style="fill:url(#radialGradient3984);fill-opacity:1;stroke:none;display:inline;filter:url(#filter4090)"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4142)"
        id="rect3967"
        width="615.76898"
        height="100"
