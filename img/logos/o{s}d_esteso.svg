@@ -105,16 +105,15 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter4014"
-       x="-0.069743916"
-       width="1.1394877"
-       y="-0.42946139"
-       height="1.8589228"
-       color-interpolation-filters="sRGB">
+       id="filter4054"
+       x="-0.027897566"
+       width="1.0557951"
+       y="-0.17178456"
+       height="1.3435691">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="17.894225"
-         id="feGaussianBlur4016" />
+         stdDeviation="7.1576898"
+         id="feGaussianBlur4056" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -163,7 +162,7 @@
        rx="1.1441341e-05"
        ry="6.1439996" />
     <rect
-       style="fill:url(#radialGradient3984);fill-opacity:1;stroke:none;display:inline;filter:url(#filter4014)"
+       style="fill:url(#radialGradient3984);fill-opacity:1;stroke:none;display:inline;filter:url(#filter4054)"
        id="rect3967"
        width="615.76898"
        height="100"
