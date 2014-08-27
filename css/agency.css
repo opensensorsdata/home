@@ -177,8 +177,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     background-image: url(../img/logos/o{s}d_logo.svg);
-    background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
+    background-position: left top;
     color: #fed136;
 }
 
