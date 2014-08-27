@@ -176,12 +176,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    display: block;
-    background-image: url(../img/logos/o{s}d_logo.svg);
-    background-repeat: no-repeat;
-    background-position: left top;
     color: #fed136;
-    
 }
 
 .navbar-default .navbar-brand:hover,
@@ -270,7 +265,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/sfondi_web/1200px-Castello_della_Valle_Fiumefreddo_Bruzio_1.jpeg);
+    background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
