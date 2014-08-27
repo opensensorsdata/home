@@ -207,7 +207,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: "Open Sans extrabold","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 40;
+    font-weight: 1;
     letter-spacing: 1px;
     color: #fff;
 }
