@@ -169,6 +169,12 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+#navlogo {
+    height: 100%;
+    margin-top: -3px;
+    margin-right: 5px;
+}
+
 .navbar-default {
     border-color: transparent;
     background-color: #222;
